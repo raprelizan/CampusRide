@@ -1,0 +1,6 @@
+{
+  "name": "CampusRide",
+  "description": "University student ride-hailing and campus carpooling platform with real-time tracking, student discounts, split fares, and driver mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
